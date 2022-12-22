@@ -3,6 +3,7 @@ I decided to test out my questing tools (read: rush them out the door) by making
 I have a couple quests planned, as well as, maybe some custom armor and weps.
 I just got back from a big job so I'll be adding to it over time.
 The event item is already implemented.
+I am still figuring a lot of this stuff out so for now the quest is on G4 Page 1.
 
 The quests will be for multiple people in endgame gear so expect monsters to be strong :)
  
