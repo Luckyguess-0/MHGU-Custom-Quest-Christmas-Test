@@ -6,7 +6,7 @@ The event item is already implemented.
 
 The quests will be for multiple people in endgame gear so expect monsters to be strong :)
  
- 
+If you're playing online make sure everyone is using the same mods, and knows your using mods. 
  
  
 Yes, I will do an egg quest don’t worry.
