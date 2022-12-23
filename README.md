@@ -14,9 +14,11 @@ Yes, I will do an egg quest don’t worry.
 
 # Install
 Emu
+
 Unzip the file into the mod directory.![image](https://user-images.githubusercontent.com/90596580/209405295-e3d8df6a-af98-418f-bef0-933eb3c5c6d0.png)
 
 Switch
+
 Place the romfs file in the mod directory.
 ![image](https://user-images.githubusercontent.com/90596580/209405377-76f3f673-8713-4d9e-8cbd-845d3d1e3700.png)
 
